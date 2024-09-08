@@ -21,4 +21,4 @@ Share Your Location
 Click the "Share Location" button to generate a link to your current location that can be shared via WhatsApp or other platforms.
 Send a Panic Alert
 Click the "Panic Alert" button to call a selected contact immediately in case of emergency.
-this is my mct 351 project mehnnn
+this is my mct 351 project mehnnn.
